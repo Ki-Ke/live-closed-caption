@@ -1,4 +1,3 @@
-[![Airit Logo](/src/assets/images/CC_logo.png)]()
+# Live Closed Caption <img src="/src/assets/images/CC_logo.png" alt="Airit Logo" width="40">
 
-# Live Closed Caption
 Cross platform application that displays live caption
