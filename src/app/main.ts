@@ -8,6 +8,7 @@ function createWindow() {
         resizable: false,
         alwaysOnTop: true,
         skipTaskbar: true,
+        fullscreenable: false,
         frame: false,
         titleBarStyle: 'hiddenInset',
         backgroundColor: '#222831',
